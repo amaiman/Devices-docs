@@ -71,7 +71,7 @@ Some Microsoft Exchange properties of the device account must be set to particul
 
 ## Apply ActiveSync policies to device accounts 
 
-Surface Hubs on Windows 10 Team 1703 and earlier versions used AGctiveSync to sync mail & calendar.
+Surface Hubs on Windows 10 Team 1703 and earlier versions used ActiveSync to sync mail & calendar.
 
 The Surface Hub requirements for ActiveSync policies in your organization are as follows:
 
